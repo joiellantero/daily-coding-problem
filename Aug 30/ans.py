@@ -1,3 +1,5 @@
+# using nested loops to solve this problem
+
 # list1 = [1, 2, 3, 4, 5]
 list1 = [3, 2, 1]
 list2 = []
