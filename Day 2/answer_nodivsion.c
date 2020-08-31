@@ -45,4 +45,6 @@ int main(){
 
   // release the used memory space for the array l2
   free(l2);
+
+  return 0;
 }
