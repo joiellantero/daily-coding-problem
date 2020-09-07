@@ -1,3 +1,5 @@
+// applying the same concept in python but using c language.
+
 #include <stdio.h>
 
 int main(){
