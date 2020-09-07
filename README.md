@@ -1,2 +1,3 @@
 # coding-challenge
-This repository is a compilation of my coding challenges that I do in preparation for coding interviews.
+
+This repository contains my solutions (with explanations) to the [Daily Coding Problem](https://www.dailycodingproblem.com/).
